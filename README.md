@@ -1,5 +1,5 @@
-# us-states-game
-[Mini Game]Test your knowledge against US states name
+# 🕹*Mini Game* us-states-game 🎮
+Test your knowledge against US states name
 
 ## Main Game Screen:
 ![alt text](https://github.com/Phern17/us-states-game/blob/master/us-states-game-start/Image%20Gallery/game%20screen.jpg)
